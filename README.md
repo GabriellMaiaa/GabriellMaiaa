@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gabriel Maia 🖐
 
-[![(Linkedin)](https://www.linkedin.com/in/gabriel-ribeiro-maia-ba786b223/)
+[![(Linkedin)](https://www.linkedin.com/in/gabriel-ribeiro-maia-ba786b223/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![(Instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gaabrielmaia_)
 
 ![Gabriel Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellMaiaa&show_icons=true&theme=dracula)
