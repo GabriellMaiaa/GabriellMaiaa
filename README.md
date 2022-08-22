@@ -1,5 +1,6 @@
 ### Olá! Eu sou Gabriel Maia 🖐 
 Atualmente estou estudando:
+
 👉 React.js e Typescript
 👉 Java e SpringBoot
 
