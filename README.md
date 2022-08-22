@@ -1,4 +1,8 @@
-### Olá! Eu sou Gabriel Maia 🖐
+### Olá! Eu sou Gabriel Maia 🖐 
+Atualmente estou estudando:
+
+1. React.js e Typescript
+2. Java e SpringBoot
 
 [![(Linkedin)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ribeiro-maia-ba786b223/)
 [![(Instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gaabrielmaia_)
