@@ -1,5 +1,5 @@
-### Olá! Eu sou Gabriel Maia 🖐 
-Atualmente estou estudando:
+### Olá! Eu sou Gabriel Maia e sou Desenvolvedor🖐 
+Atualmente estou estudando as tecnologias:
 
 👉 React.js 
 👉 Python
