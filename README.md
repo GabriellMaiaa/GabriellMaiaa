@@ -21,7 +21,7 @@ Atualmente estou estudando as tecnologias:
 
 </div>
 <br>
-Sou alguém apaixonado por Programação e Tecnologia, e busco sempre aprimorar meus conhecimentos a cada dia!
+Sou apaixonado por Programação e Tecnologia, e busco sempre aprimorar meus conhecimentos a cada dia, para me tornar um profissional mais qualificado!
 <br><br>
 Para entrar em contato comigo, segue adiante o meu contato:
 <br><br>
