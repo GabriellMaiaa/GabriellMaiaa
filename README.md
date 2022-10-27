@@ -21,7 +21,7 @@ Atualmente estou estudando as tecnologias:
 
 </div>
 <br>
-Sou apaixonado por Programação e Tecnologia, e busco sempre aprimorar meus conhecimentos a cada dia, para me tornar um profissional mais qualificado!
+Sou apaixonado por Programação e Tecnologia, e busco sempre aprimorar meus conhecimentos a cada dia, para me tornar um FullStack e bem mais qualificado que a média do mercado!
 <br><br>
 Para entrar em contato comigo, segue adiante o meu contato:
 <br><br>
