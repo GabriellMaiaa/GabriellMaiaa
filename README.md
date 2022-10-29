@@ -1,4 +1,4 @@
-### Olá! Eu sou Gabriel Maia e sou Desenvolvedor🖐 
+### Olá! Eu sou Gabriel Maia e sou Desenvolvedor FullStack🖐 
 Atualmente estou estudando as tecnologias:
 
 👉 React.js e Angular
