@@ -23,7 +23,8 @@ Atualmente estou estudando as tecnologias:
 <br>
 Sou apaixonado por Programação e Tecnologia, e busco sempre aprimorar meus conhecimentos a cada dia, para me tornar um FullStack bem mais qualificado que a média do mercado!
 <br><br>
-Para entrar em contato comigo, segue adiante o meu contato:
+Para entrar em contato comigo, segue adiante as minhas informações:
+:
 <br><br>
 <img align_items="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <img align_items="center" alt="Whatsapp" alt="Email" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
