@@ -19,7 +19,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMaiaa&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div><br>
-<p align="center"> 👇E essas são as Linguagens que  possuo Conhecimentos👇
+<p align="center"> 👇 Essas são as Linguagens que  possuo Conhecimentos: 👇
   
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -35,11 +35,13 @@
 
  
 </div><br>
-
-
-  <a align="center" href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a align="center" href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a align="center" href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <p align = "center">Aqui abaixo estão algumas informações para meu contato: 👇</p>
+      
+<div align="center">
+  <a align="center" href="https://www.linkedin.com/in/gabriel-ribeiro-maia-ba786b223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a align="center" href="mailto:gribeiromaia736@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a align="center" href="https://www.instagram.com/gaabrielmaia_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      </div>
 </div>
 
 <div align="center">
@@ -50,5 +52,4 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+ 
