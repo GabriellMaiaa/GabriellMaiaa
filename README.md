@@ -9,7 +9,7 @@
     <strong>Sou Desenvolvedor de Software<strong/>, e estou me aprimorando para me tornar um <strong>FullStack!<strong/> 
   </p>
 
-  <p align="center"> 👉 Atualmente estou estudando <strong>Python<strong/>, e avançando meus conhecimentos em <strong>React.js<strong/></p>
+  <p align="center"> 👉 Atualmente estou estudando <strong>Node<strong/> para BackEnd, e avançando meus conhecimentos em <strong>React.js<strong/> com Next.js</p>
   
 </div>
 
